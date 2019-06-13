@@ -41,7 +41,7 @@ a:hover{    /*pseudo class for hover like properties*/
 .top-container {
   background-color: #E4F9F5;
   position: relative;
-  padding-top: 100px;
+  padding-top: 150px;
 }
 
 .middle-container {
@@ -60,8 +60,8 @@ a:hover{    /*pseudo class for hover like properties*/
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 40px;
+  right: 200px;
+  top: 100px;
 }
 
 .web {
